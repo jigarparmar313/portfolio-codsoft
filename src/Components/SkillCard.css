@@ -1,0 +1,35 @@
+
+.jp-card1 {
+    width: 250px !important;
+    border: 2px solid rgba(188, 227, 33, 0.913) !important;
+    background-color: black !important;
+    color: #ffc107 !important;
+    
+  }
+  
+  .jp-card1:hover
+  {
+  /* box-shadow: 0 0 15px 15px #ffc107ce !important; */
+  box-shadow: 0px 0px 100px 10px rgba(0, 128, 0, 0.737);
+  transform: scale(1.05);
+
+  }
+
+.img-card {
+    width: 200px !important;
+}
+
+
+@media (max-width: 764px) {
+
+  
+.jp-card1 {
+    width: 210px !important;
+  }
+
+  .img-card {
+    width: 150px !important;
+}
+
+  
+}

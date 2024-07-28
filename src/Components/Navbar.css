@@ -1,0 +1,29 @@
+/* .container {
+  margin-top: 50px !important;
+} */
+
+
+a {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+    color: whitesmoke !important;
+}
+
+h1
+{
+  color: whitesmoke !important;
+}
+
+.nav-link.active {
+    font-weight: bolder;
+    border-bottom: 3px solid #effe18; /* or any color you prefer */
+  }
+  
+
+  @media (max-width: 992px)
+  {
+    a.nav-link.active{
+        width: 95px !important;
+      }
+  }

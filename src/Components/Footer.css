@@ -1,0 +1,13 @@
+.bi-heart-fill {
+  color: red !important;
+}
+
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 500px) {
+  .pt_5{
+    padding-top: 25px !important;
+  }
+}

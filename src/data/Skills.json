@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "tech":"HTML",
+        "imgSrc": "Skills/HTML.webp"
+    },
+    
+    {
+        "id":2,
+        "tech":"CSS",
+        "imgSrc": "Skills/CSS.webp"
+    },
+    
+    {
+        "id":3,
+        "tech":"JavaScript",
+        "imgSrc": "Skills/JAVASCRIPT.webp"
+    },
+    
+    {
+        "id":4,
+        "tech":"PHP",
+        "imgSrc": "Skills/PHP.webp"
+    },
+    
+    {
+        "id":5,
+        "tech":"ReactJs",
+        "imgSrc": "Skills/REACT_JS.webp"
+    },
+    
+    {
+        "id":6,
+        "tech":"Vite",
+        "imgSrc": "Skills/VITE.webp"
+    },
+    
+    {
+        "id":7,
+        "tech":"Bootstrap",
+        "imgSrc": "Skills/BOOTSTRAP.webp"
+    },
+    
+    {
+        "id":8,
+        "tech":"TailWind Css",
+        "imgSrc": "Skills/TAILWIND_CSS.webp"
+    },
+    
+    {
+        "id":9,
+        "tech":"Material UI",
+        "imgSrc": "Skills/MATERIAL_UI.webp"
+    },
+    
+    {
+        "id":10,
+        "tech":"SQL",
+        "imgSrc": "Skills/SQL.webp"
+    }
+]

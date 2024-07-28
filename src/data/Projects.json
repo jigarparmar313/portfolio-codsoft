@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "title": "Penting Art",
+    "imgSrc": "Projects/1_Penting_Art.webp",
+    "description": "Penting Art is a simple website. Which is static. Because it is my one of the starting learning phase website.",
+    "demo": "https://jigarparmar313.github.io/pentingart.github.io",
+    "source": "https://github.com/jigarparmar313/pentingart.github.io"
+  },
+  {
+    "id": 2,
+    "title": "Banner Sale",
+    "imgSrc": "Projects/2_Banner_Sale.webp",
+    "description": "Banner sale in my first banner project.  Because it is my one of the starting learning ",
+    "demo": "https://jigarparmar313.github.io/banner_sale.github.io/",
+    "source": "https://github.com/jigarparmar313/banner_sale.github.io"
+  },
+  {
+    "id": 3,
+    "title": "Birdor",
+    "imgSrc": "Projects/3_Birdor.webp",
+    "description": "Birdor is also a static website regarding the birds. One of my project during learing phase.",
+    "demo": "https://jigarparmar313.github.io/birdor.github.io/",
+    "source": "https://github.com/jigarparmar313/birdor.github.io"
+  },
+  {
+    "id": 4,
+    "title": "Zone Coffe",
+    "imgSrc": "Projects/4_Zone_Coffee.webp",
+    "description": "Zone Coffee a static website of my learing phase.",
+    "demo": "https://jigarparmar313.github.io/Zone_Coffee_wout_responsive.github.io/",
+    "source": "https://github.com/jigarparmar313/Zone_Coffee_wout_responsive.github.io"
+  },
+  {
+    "id": 5,
+    "title": "App Minimal",
+    "imgSrc": "Projects/5_Creaving_Food.webp",
+    "description": "App Minimal is a static website of my learing phase.",
+    "demo": "https://jigarparmar313.github.io/app_minimal.github.io/",
+    "source": "https://github.com/jigarparmar313/app_minimal.github.io"
+  },
+  {
+    "id": 6,
+    "title": "Active Box",
+    "imgSrc": "Projects/6_Active_box.webp",
+    "description": "Active box a static website of my learing phase.",
+    "demo": "https://jigarparmar313.github.io/Active_box.github.io/",
+    "source": "https://github.com/jigarparmar313/Active_box.github.io"
+  }
+  ,
+  {
+    "id": 7,
+    "title": "Gehlot",
+    "imgSrc": "Projects/7_Gehlot.webp",
+    "description": "Gehlot is my first complete responsive website.",
+    "demo": "https://jigarparmar313.github.io/gehlot_all.github.io/",
+    "source": "https://github.com/jigarparmar313/Active_box.github.io"
+  }
+]

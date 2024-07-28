@@ -1,0 +1,31 @@
+.card {
+  transition: all 0.3s ease-in-out;
+  background-color: black !important;
+  color: #ffc107 !important;
+
+}
+
+.card p 
+{
+    color: rgb(216, 220, 230) !important;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  /* box-shadow: 0 0 15px 15px #ffc107ce ; */
+  box-shadow: 0px 0px 15px 10px rgba(153, 205, 50, 0.536);
+
+
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+

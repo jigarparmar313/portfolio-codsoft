@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer",
+    "organisation": "OpensourceXpert InfoTech",
+    "startDate": "Nov 2023",
+    "endDate": "Present",
+    "location": "Ahmedabad",
+    "experiences": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Core Php",
+      "ReactJs",
+      "Vite",
+      "Wordpress"
+    ],
+    "imgSrc": "Company/OpensourceXpert_InfoTech.webp"
+  },
+  {
+    "id": 2,
+    "role": "Mern Stack Intern",
+    "organisation": "Arth Infosoft Pvt.ltd.",
+    "startDate": "Jan 2023",
+    "endDate": "May 2023",
+    "location": "Ahmedabad",
+    "experiences": [
+      "JavaScript",
+      "ReactJs",
+      "ExpressJs",
+      "Api",
+      "Routing",
+      "Expense Tracker App",
+      "JXS"
+    ],
+
+    "imgSrc": "Company/Arth_Infosoft_pvt_ltd.webp"
+  },
+  {
+    "id": 3,
+    "role": "Diploma in Web Designing",
+    "organisation": "Shivam Computer",
+    "startDate": "Jan 2022",
+    "endDate": "Dec 2022",
+    "location": "Ahmedabad",
+    "experiences": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Template into Html",
+      "PSD to Html",
+      "Responsive Website"
+    ],
+
+    "imgSrc": "Company/Shivam_Computers.webp"
+  },
+  {
+    "id": 4,
+    "role": "Web Desiging With Php",
+    "organisation": "Anudip Foundation",
+    "startDate": "Sept 2022",
+    "endDate": "Feb 2023",
+    "location": "Ahmedabad",
+    "experiences": ["Core Php", "CRUD Operations", "Learn SQL"],
+
+    "imgSrc": "Company/Anudip_Foundation.webp"
+  },
+  {
+    "id": 5,
+    "role": "Php Intern",
+    "organisation": "BrainyBeam Technologies Pvt. Ltd",
+    "startDate": "June 2022",
+    "endDate": "July 2022",
+    "location": "Ahmedabad",
+    "experiences": [
+      "Core Php",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Employee Management System",
+      "CRUD Operations"
+    ],
+    "imgSrc": "Company/BrainyBeam_Technologies_Pvt_Ltd.webp"
+  }
+  
+]
