@@ -1,3 +1,11 @@
+.navbar-toggler:hover {
+  border: 1px solid rgba(188, 227, 33, 0.913) !important;
+  color: whitesmoke !important;
+  box-shadow: 0 0 0px 1px rgba(255, 193, 7, 0.8) !important;
+}
+
+
+
 .mt_25 {
   margin-top: 60px !important;
 }
@@ -55,14 +63,23 @@
 }
 
 @media (max-width: 1200px) {
-  .jp-btn {
+  /* .jp-btn {
     width: 200px !important;
-  }
+  } */
 }
 
 @media (max-width: 500px) {
+
+  .jp-btn
+  {
+    width: 198px !important;
+  }
   .ptb_50 {
     padding-top: 80px !important;
     padding-bottom: 80px !important;
+  }
+
+  h2{
+    font-size: 19.9px !important;
   }
 }

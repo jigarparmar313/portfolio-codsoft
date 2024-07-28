@@ -47,9 +47,11 @@ const Footer = () => {
                     </a>
                   </li>
                 </ul>
+                <div className="d-flex justify-content-between">
+
                 <p className="text-center text-white">
-                  Created By Jigar Parmar with {"\t"}
-                  <svg
+                Made with ❤️ by Jigar Parmar {"\t"}
+                  {/* <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
                     height="16"
@@ -61,8 +63,17 @@ const Footer = () => {
                       fill-rule="evenodd"
                       d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314"
                     />
-                  </svg>
+                  </svg> */}
                 </p>
+
+
+                <p className="text-center text-white">
+                Copyright © 2024 J P
+                </p>
+
+              
+                </div>
+
               </footer>
             </div>
         </div>
